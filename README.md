@@ -3,7 +3,7 @@ IMDB like application powered completely by MONGODB
 
 
 
-Using this to practice mongoDB features and it's spring integration
+Using this to explore and get some hands on mongoDB features and it's spring integration
 
 To run the application, use 
 ```
